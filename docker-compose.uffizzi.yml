@@ -26,6 +26,11 @@ services:
         limits:
           memory: 250M
 
+  result:
+    build: ./result
+    environment:
+      PORT: 8088
+      
   vote:
     build: ./vote
     deploy:
