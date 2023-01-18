@@ -1,5 +1,7 @@
 Example Voting App
 =========
+[![preview-button](https://user-images.githubusercontent.com/7218230/213321844-16c20a23-5a23-4064-bafd-8b806468fbd6.svg)](https://app.uffizzi.com/sign_up_demo)
+
 
 A simple distributed application running across multiple Docker containers.
 
